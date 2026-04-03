@@ -4,8 +4,8 @@ An e-commerce frontend application built using React and Redux Toolkit. It inclu
 
 ---
 
-## Live Demo
-https://your-live-link.vercel.app
+## 🌐 Live Demo
+ 🔗 [visit Ecommerce Fronted](https://ecommerce-frontend-green-two.vercel.app/)
 
 ---
 
@@ -34,7 +34,7 @@ https://your-live-link.vercel.app
 ## ⚙️ Setup
 
 ```bash
-git clone <>
+git clone <https://github.com/tapasisamal/ecommerce-frontend>
 cd ecommerce-frontend
 npm install
 npm run dev
