@@ -12,7 +12,7 @@ const cartSlice = createSlice ({
             const item = state.items.find((i) => i.id === action.payload.id)
 
             if(item) {
-                item += 1
+                item.qty += 1
             } else {
                 state.items.push({...action.payload, qty: 1})
             }
